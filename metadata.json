@@ -1,0 +1,5 @@
+{
+  "name": "AutoBlog Pro",
+  "description": "A modern, high-performance blog and membership system designed for Cloudflare Pages and D1.",
+  "requestFramePermissions": []
+}
